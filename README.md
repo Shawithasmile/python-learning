@@ -2,4 +2,4 @@
 python practice and exercises
 
 ## 📚 Lab Assignments
-* **Lab 4:** Loop Control Structures (`CP111_Lab4_Loops_570_Shareef.ipynb`)
+* **Lab 4:** Introduction to Computer Programming + Overview of Python Programming + Anaconda for Python 3.x + Google Colab (`CP111_Lab01`)
