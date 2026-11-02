@@ -10,4 +10,6 @@ python practice and exercises
 * **Lab 6:** Functions Part1 (`CP111_Lab6_functions_570`)
 * **Lab 7:** Functions, Types of parameters (default arguments, keyword arguments, positional arguments, arbitrary positional arguments, arbitrary keyword arguments) Part2 (`CP111_Lab7_functions_570`)
 * **Lab 8:** Files (`LAB8_570StandardLibAndFile`)
+* **Lab 9:** Built-in data structures (Lists, Tuples, Dictionaries, Sets) Part 1 (`Lab_9_Data_structure_list`)
+* **Lab 10:** Built-in data structures (Lists, Tuples, Dictionaries, Sets) Part 2 (`Lab10_TupleDicSet_(1)`)
 * **Lab 11:** Testing, Debugging, Exceptions, Assertions (`Lab11exception`)
